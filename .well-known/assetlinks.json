@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "com.kousikcreativestudio.mydeardiary",
+        "sha256_cert_fingerprints": ["86:6C:35:C0:23:2A:E0:6A:AE:CA:74:62:9F:42:67:CB:0A:B4:34:EA:18:57:51:A9:75:CD:0B:2A:95:AB:85:F0"]
+      }
+    }]
